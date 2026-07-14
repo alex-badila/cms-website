@@ -1,7 +1,13 @@
 # CMS Website
+
+See the site live: https://wddm130-project-3.vercel.app
+
+# Description
+
 A CMS website where admin users can add, update, and delete pages. Each page contains a title, an image, and content. The admin user has to log in to make changes. You can log in with the following credentials:
 
 Username: admin
+
 Password: admin
 
 This was the third and final project of my Web Application Development course as part of Humber's Web Design and Development program.
